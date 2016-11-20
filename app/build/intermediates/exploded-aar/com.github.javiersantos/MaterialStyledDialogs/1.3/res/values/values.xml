@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_styled_accent">#FFC107</color>
+    <color name="md_styled_primary">#1565C0</color>
+    <color name="md_styled_primary_dark">#0D47A1</color>
+    <dimen name="md_styled_dialog_header">120dp</dimen>
+    <dimen name="md_styled_pic_size">44dp</dimen>
+    <dimen name="md_styled_text_description">18sp</dimen>
+    <dimen name="md_styled_text_title">24sp</dimen>
+    <string name="define_materialstyleddialogs"/>
+    <string name="library_materialstyleddialogs_author">Javier Santos</string>
+    <string name="library_materialstyleddialogs_authorWebsite">https://github.com/javiersantos</string>
+    <string name="library_materialstyleddialogs_isOpenSource">true</string>
+    <string name="library_materialstyleddialogs_libraryDescription">A library that shows a beautiful and customizable Material dialog with header and animation.</string>
+    <string name="library_materialstyleddialogs_libraryName">MaterialStyledDialogs</string>
+    <string name="library_materialstyleddialogs_libraryWebsite">https://github.com/javiersantos/MaterialStyledDialogs</string>
+    <string name="library_materialstyleddialogs_licenseId">apache_2_0</string>
+    <string name="library_materialstyleddialogs_repositoryLink">https://github.com/javiersantos/MaterialStyledDialogs</string>
+    <style name="MaterialStyledDialogs_DialogAnimationFast">
+        <item name="android:windowEnterAnimation">@anim/md_styled_slide_up_fast</item>
+        <item name="android:windowExitAnimation">@anim/md_styled_slide_down_fast</item>
+    </style>
+    <style name="MaterialStyledDialogs_DialogAnimationNormal">
+        <item name="android:windowEnterAnimation">@anim/md_styled_slide_up_normal</item>
+        <item name="android:windowExitAnimation">@anim/md_styled_slide_down_normal</item>
+    </style>
+    <style name="MaterialStyledDialogs_DialogAnimationSlow">
+        <item name="android:windowEnterAnimation">@anim/md_styled_slide_up_slow</item>
+        <item name="android:windowExitAnimation">@anim/md_styled_slide_down_slow</item>
+    </style>
+</resources>

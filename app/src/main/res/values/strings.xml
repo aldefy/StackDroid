@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StackDroid</string>
+    <string name="bookmark_qn">Bookmarked Questions</string>
+    <string name="home">Home</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="likeButton">Favourite</string>
+    <string name="action_search">Search</string>
+    <string name="api_quota_max">API Quota Max:</string>
+    <string name="api_quota_avl">API Quota Available:</string>
+    <string name="sort_activity_title">Activity</string>
+    <string name="sort_creation_title">Creation</string>
+    <string name="sort_votes_title">Votes</string>
+    <string name="sort_relevance">relevance</string>
+    <string name="sort_relevance_title">Relevance</string>
+    <string name="sort_activity_value">activity</string>
+    <string name="sort_creation_value">creation</string>
+    <string name="sort_votes_value">votes</string>
+    <string name="project_screenshot">project screenshot</string>
+</resources>
