@@ -1,6 +1,6 @@
 {
   "name": "Stackdroid",
   "tagline": "Stackoverflow client - Android MVP repo",
-  "body": "### Problem Statement\r\nFetch un-answered android questions on Stackoverflow.com / Stack-exchange, add features to enable search based on tags and bookmark questions.\r\n\r\n![](https://github.com/aldefy/StackDroid/blob/master/StackDroid.png)",
+  "body": "### Problem Statement\r\nFetch un-answered android questions on Stackoverflow.com / Stack-exchange, add features to enable search based on tags and bookmark questions.\r\n\r\n![](https://github.com/aldefy/StackDroid/blob/master/StackDroid.png?raw=true)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
