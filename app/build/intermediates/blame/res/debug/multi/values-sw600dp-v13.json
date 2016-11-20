@@ -356,17 +356,17 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 41,
-                    "endOffset": 92
+                    "endColumn": 68,
+                    "endOffset": 119
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 41,
-                        "endOffset": 92
+                        "startOffset": 233,
+                        "endColumn": 68,
+                        "endOffset": 297
                     }
                 }
             },
@@ -374,18 +374,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 97,
-                    "endColumn": 68,
-                    "endOffset": 161
+                    "startOffset": 124,
+                    "endColumn": 69,
+                    "endOffset": 189
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 68,
-                        "endOffset": 119
+                        "startOffset": 302,
+                        "endColumn": 69,
+                        "endOffset": 367
                     }
                 }
             },
@@ -393,18 +393,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 166,
-                    "endColumn": 69,
-                    "endOffset": 231
+                    "startOffset": 194,
+                    "endColumn": 73,
+                    "endOffset": 263
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 124,
-                        "endColumn": 69,
-                        "endOffset": 189
+                        "startOffset": 372,
+                        "endColumn": 73,
+                        "endOffset": 441
                     }
                 }
             },
@@ -412,18 +412,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 236,
-                    "endColumn": 73,
-                    "endOffset": 305
+                    "startOffset": 268,
+                    "endColumn": 75,
+                    "endOffset": 339
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 194,
-                        "endColumn": 73,
-                        "endOffset": 263
+                        "startOffset": 446,
+                        "endColumn": 75,
+                        "endOffset": 517
                     }
                 }
             },
@@ -431,18 +431,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 310,
-                    "endColumn": 75,
-                    "endOffset": 381
+                    "startOffset": 344,
+                    "endColumn": 58,
+                    "endOffset": 398
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 268,
-                        "endColumn": 75,
-                        "endOffset": 339
+                        "startOffset": 700,
+                        "endColumn": 58,
+                        "endOffset": 754
                     }
                 }
             },
@@ -450,18 +450,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 386,
-                    "endColumn": 58,
-                    "endOffset": 440
+                    "startOffset": 403,
+                    "endColumn": 70,
+                    "endOffset": 469
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 344,
-                        "endColumn": 58,
-                        "endOffset": 398
+                        "startOffset": 937,
+                        "endColumn": 70,
+                        "endOffset": 1003
                     }
                 }
             },
@@ -469,18 +469,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 445,
-                    "endColumn": 70,
-                    "endOffset": 511
+                    "startOffset": 474,
+                    "endColumn": 67,
+                    "endOffset": 537
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 403,
-                        "endColumn": 70,
-                        "endOffset": 469
+                        "startOffset": 1008,
+                        "endColumn": 67,
+                        "endOffset": 1071
                     }
                 }
             },
@@ -488,28 +488,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 516,
-                    "endColumn": 67,
-                    "endOffset": 579
-                },
-                "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 474,
-                        "endColumn": 67,
-                        "endOffset": 537
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 584,
+                    "startOffset": 542,
                     "endColumn": 69,
-                    "endOffset": 649
+                    "endOffset": 607
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -524,11 +505,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 654,
+                    "startOffset": 612,
                     "endColumn": 70,
-                    "endOffset": 720
+                    "endOffset": 678
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -543,11 +524,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 725,
+                    "startOffset": 683,
                     "endColumn": 71,
-                    "endOffset": 792
+                    "endOffset": 750
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -562,11 +543,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 797,
+                    "startOffset": 755,
                     "endColumn": 57,
-                    "endOffset": 850
+                    "endOffset": 808
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -581,11 +562,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 855,
+                    "startOffset": 813,
                     "endColumn": 57,
-                    "endOffset": 908
+                    "endOffset": 866
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -600,11 +581,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 913,
+                    "startOffset": 871,
                     "endColumn": 105,
-                    "endOffset": 1014
+                    "endOffset": 972
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -619,11 +600,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1019,
+                    "startOffset": 977,
                     "endColumn": 63,
-                    "endOffset": 1078
+                    "endOffset": 1036
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -638,30 +619,30 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1083,
+                    "startOffset": 1041,
                     "endColumn": 54,
-                    "endOffset": 1133
+                    "endOffset": 1091
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 542,
+                        "startOffset": 1076,
                         "endColumn": 54,
-                        "endOffset": 592
+                        "endOffset": 1126
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1138,
+                    "startOffset": 1096,
                     "endColumn": 62,
-                    "endOffset": 1196
+                    "endOffset": 1154
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",
@@ -676,12 +657,12 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1201,
-                    "endLine": 22,
+                    "startOffset": 1159,
+                    "endLine": 21,
                     "endColumn": 12,
-                    "endOffset": 1378
+                    "endOffset": 1336
                 },
                 "from": {
                     "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml",

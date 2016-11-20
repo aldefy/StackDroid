@@ -63,8 +63,7 @@ dependencies {
 
     //Custom View
     compile 'com.github.danylovolokh:hashtag-helper:1.1.0'
-    compile 'com.github.javiersantos:MaterialStyledDialogs:1.3'
-    
+
 
 
 }

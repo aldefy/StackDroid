@@ -410,13 +410,13 @@
                     "endOffset": 5077
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 229,
                         "endColumn": 116,
-                        "endOffset": 167
+                        "endOffset": 341
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 5185
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 172,
+                        "startOffset": 346,
                         "endColumn": 107,
-                        "endOffset": 275
+                        "endOffset": 449
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 5308
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 454,
                         "endColumn": 122,
-                        "endOffset": 398
+                        "endOffset": 572
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 5412
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 403,
+                        "startOffset": 577,
                         "endColumn": 103,
-                        "endOffset": 502
+                        "endOffset": 676
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 5521
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 507,
+                        "startOffset": 681,
                         "endColumn": 108,
-                        "endOffset": 611
+                        "endOffset": 785
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 5603
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 616,
+                        "startOffset": 790,
                         "endColumn": 81,
-                        "endOffset": 693
+                        "endOffset": 867
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 5704
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 698,
+                        "startOffset": 872,
                         "endColumn": 100,
-                        "endOffset": 794
+                        "endOffset": 968
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 5818
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 799,
+                        "startOffset": 973,
                         "endColumn": 113,
-                        "endOffset": 908
+                        "endOffset": 1082
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 5897
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 913,
+                        "startOffset": 1087,
                         "endColumn": 78,
-                        "endOffset": 987
+                        "endOffset": 1161
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 5976
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 992,
+                        "startOffset": 1166,
                         "endColumn": 78,
-                        "endOffset": 1066
+                        "endOffset": 1240
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 6055
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1071,
+                        "startOffset": 1245,
                         "endColumn": 78,
-                        "endOffset": 1145
+                        "endOffset": 1319
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 6160
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1150,
+                        "startOffset": 1324,
                         "endColumn": 104,
-                        "endOffset": 1250
+                        "endOffset": 1424
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 6261
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1255,
+                        "startOffset": 1429,
                         "endColumn": 100,
-                        "endOffset": 1351
+                        "endOffset": 1525
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 6357
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1356,
+                        "startOffset": 1530,
                         "endColumn": 95,
-                        "endOffset": 1447
+                        "endOffset": 1621
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 6465
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1452,
+                        "startOffset": 1626,
                         "endColumn": 107,
-                        "endOffset": 1555
+                        "endOffset": 1729
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 6568
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1560,
+                        "startOffset": 1734,
                         "endColumn": 102,
-                        "endOffset": 1658
+                        "endOffset": 1832
                     }
                 }
             },
@@ -714,13 +714,13 @@
                     "endOffset": 6671
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1663,
+                        "startOffset": 1837,
                         "endColumn": 102,
-                        "endOffset": 1761
+                        "endOffset": 1935
                     }
                 }
             },
@@ -733,13 +733,13 @@
                     "endOffset": 6790
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1766,
+                        "startOffset": 1940,
                         "endColumn": 118,
-                        "endOffset": 1880
+                        "endOffset": 2054
                     }
                 }
             },
@@ -752,13 +752,13 @@
                     "endOffset": 6887
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1885,
+                        "startOffset": 2059,
                         "endColumn": 96,
-                        "endOffset": 1977
+                        "endOffset": 2151
                     }
                 }
             },
@@ -847,13 +847,13 @@
                     "endOffset": 7468
                 },
                 "from": {
-                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-ar/values-ar.xml",
+                    "file": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ar/values-ar.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1982,
+                        "startOffset": 2156,
                         "endColumn": 100,
-                        "endOffset": 2078
+                        "endOffset": 2252
                     }
                 }
             }
