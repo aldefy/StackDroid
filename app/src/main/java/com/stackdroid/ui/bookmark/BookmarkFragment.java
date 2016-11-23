@@ -3,12 +3,14 @@ package com.stackdroid.ui.bookmark;
 import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.stackdroid.R;
 import com.stackdroid.api.models.QItems;
@@ -50,7 +52,12 @@ public class BookmarkFragment extends Fragment implements BookmarkView {
         progressDialog = new ProgressDialog(getActivity());
         progressDialog.setMessage("Fetching list");
         adapterItems = new ArrayList<>();
-        adapter = new QuestionsRVAdapter(getActivity(), adapterItems, true);
+        adapter = new QuestionsRVAdapter(getActivity(), adapterItems, true, new QuestionsRVAdapter.ItemClick() {
+            @Override
+            public void itemClickedAt(QItems qItems) {
+
+            }
+        });
         LinearLayoutManager llm = new LinearLayoutManager(getActivity());
         llm.setOrientation(LinearLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(llm);

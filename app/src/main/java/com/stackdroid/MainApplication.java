@@ -33,6 +33,7 @@ public class MainApplication extends Application {
             Timber.plant(new Timber.DebugTree());
             Timber.tag("Stackdroid");
         }
+
         Picasso.Builder builder = new Picasso.Builder(this);
         Picasso built = builder.build();
         built.setLoggingEnabled(true);

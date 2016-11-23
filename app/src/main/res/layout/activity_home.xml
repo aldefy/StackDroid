@@ -46,7 +46,7 @@
             android:layout_marginRight="20dp"
             android:src="@drawable/ic_sort"
             app:fabSize="normal"
-            app:layout_behavior="pharmeasy.techgravy.android.utils.ScrollAwareFABBehavior"
+            app:layout_behavior="com.stackdroid.utils.ScrollAwareFABBehavior"
             app:layout_scrollFlags="scroll|enterAlways"/>
     </android.support.design.widget.CoordinatorLayout>
 
