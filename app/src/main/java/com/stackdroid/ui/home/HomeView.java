@@ -19,5 +19,9 @@ interface HomeView {
 
     void hideProgress();
 
+    void dbSaveSuccess();
+
     void onFailure(Throwable error);
+
+    void onItemClick(QItems qItem);
 }

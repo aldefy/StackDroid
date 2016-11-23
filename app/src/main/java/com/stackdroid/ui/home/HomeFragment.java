@@ -22,6 +22,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
+import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.github.javiersantos.materialstyleddialogs.MaterialStyledDialog;
@@ -45,7 +46,7 @@ import timber.log.Timber;
 /**
  * Created by aditlal on 16/04/16.
  */
-public class HomeFragment extends Fragment implements OnQueryTextListener, HomeView {
+public class HomeFragment extends Fragment implements OnQueryTextListener, HomeView , QuestionsRVAdapter.ItemClick {
 
 
     @Bind(R.id.recyclerView)
@@ -104,7 +105,7 @@ public class HomeFragment extends Fragment implements OnQueryTextListener, HomeV
         adapterItems = new ArrayList<>();
         tags = new ArrayList<>();
         sortString = sort_activity;
-        adapter = new QuestionsRVAdapter(getActivity(), adapterItems, false);
+        adapter = new QuestionsRVAdapter(getActivity(), adapterItems, false, HomeFragment.this);
         LinearLayoutManager llm = new LinearLayoutManager(getActivity());
         llm.setOrientation(LinearLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(llm);
@@ -274,13 +275,28 @@ public class HomeFragment extends Fragment implements OnQueryTextListener, HomeV
     }
 
     @Override
+    public void dbSaveSuccess() {
+        Toast.makeText(getActivity(), "Hurray saved the question", Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
     public void onFailure(Throwable error) {
-        Timber.tag("Error").e( error.toString());
+        Timber.tag("Error").e(error.toString());
+    }
+
+    @Override
+    public void onItemClick(QItems qItem) {
+        presenter.saveQnInDb(qItem);
     }
 
     @Override
     public void onDestroy() {
         super.onDestroy();
         presenter.onStop();
+    }
+
+    @Override
+    public void itemClickedAt(QItems qItems) {
+        presenter.saveQnInDb(qItems);
     }
 }

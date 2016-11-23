@@ -12,6 +12,7 @@ import rx.Observable;
 import rx.Subscriber;
 import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;
+import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
@@ -73,9 +74,44 @@ class HomeApiService {
                 });
     }
 
+    public Subscription saveItemToDb(QItems item, QuestionsCallback callback) {
+        Subscription subscription = Observable.just(item)
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .map(new Func1<QItems, QItems>() {
+                    @Override
+                    public QItems call(QItems items) {
+                        items.setFav(!items.isFav());
+                        items.save();
+                        return items;
+                    }
+                })
+                .subscribe(new Subscriber<QItems>() {
+                    @Override
+                    public void onCompleted() {
+
+                    }
+
+                    @Override
+                    public void onError(Throwable e) {
+
+                    }
+
+                    @Override
+                    public void onNext(QItems items) {
+//  Home fragment
+                        callback.onDbSaveSuccess(items);
+
+                    }
+                });
+        return subscription;
+    }
+
 
     interface QuestionsCallback {
         void onQuestionSuccess(List<QItems> items);
+
+        void onDbSaveSuccess(QItems item);
 
         void onError(Throwable retrofitError);
     }

@@ -28,11 +28,13 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 import co.uk.rushorm.core.RushCore;
 import co.uk.rushorm.core.RushSearch;
+
 import com.stackdroid.R;
 import com.stackdroid.api.models.QItems;
 import com.stackdroid.api.models.QTags;
 import com.stackdroid.utils.CircleImageView;
 import com.stackdroid.utils.CommonUtils;
+
 import timber.log.Timber;
 
 /**
@@ -45,12 +47,14 @@ public class QuestionsRVAdapter extends RecyclerView.Adapter<QuestionsRVAdapter.
     Context context;
     char[] additionalSymbols;
     boolean isLike;
+    ItemClick itemClickInterface;
 
-    public QuestionsRVAdapter(Context context, List<QItems> qItemList,boolean isLike) {
+    public QuestionsRVAdapter(Context context, List<QItems> qItemList, boolean isLike , ItemClick itemClickInterface) {
         this.qItemList = qItemList;
-        this.isLike =isLike;
+        this.isLike = isLike;
         this.originalList = qItemList;
         this.context = context;
+        this.itemClickInterface = itemClickInterface;
         additionalSymbols = new char[]{
                 '-'
         };
@@ -98,7 +102,7 @@ public class QuestionsRVAdapter extends RecyclerView.Adapter<QuestionsRVAdapter.
             holder.favButton.setImageDrawable(ContextCompat.getDrawable(context, R.drawable.ic_favorite_small));
 
         holder.soLinkButton.setOnClickListener(v -> CommonUtils.openLink(context, v));
-        holder.favButton.setOnClickListener(i -> favQItem(i));
+        holder.favButton.setOnClickListener(v -> favQItem(v));
 
 
         runEnterAnimation(holder.itemView);
@@ -106,6 +110,8 @@ public class QuestionsRVAdapter extends RecyclerView.Adapter<QuestionsRVAdapter.
 
     private void favQItem(View i) {
         QItems qItems = (QItems) i.getTag();
+        itemClickInterface.itemClickedAt(qItems);
+      /*  QItems qItems = (QItems) i.getTag();
         qItems.setFav(!qItems.isFav());
         notifyDataSetChanged();
         if (qItems.isFav()) {
@@ -122,7 +128,7 @@ public class QuestionsRVAdapter extends RecyclerView.Adapter<QuestionsRVAdapter.
             RushCore.getInstance().delete(searchList);
         }
         if(isLike)
-            qItemList.remove(qItems);
+            qItemList.remove(qItems);*/
     }
 
     @Override
@@ -223,6 +229,11 @@ public class QuestionsRVAdapter extends RecyclerView.Adapter<QuestionsRVAdapter.
                 .setInterpolator(new DecelerateInterpolator(3.f))
                 .setDuration(700)
                 .start();
+    }
+
+
+   public interface ItemClick {
+        void itemClickedAt( QItems qItems);
     }
 
 }

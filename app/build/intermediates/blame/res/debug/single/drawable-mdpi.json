@@ -1,7 +1,7 @@
 [
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_tag.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_tag.png"
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_search.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_search.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_port.png",
@@ -16,24 +16,20 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_small.png"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_down.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_arrow_down.png"
-    },
-    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_search.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_search.png"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_selected.png"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_person.png"
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_down.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_arrow_down.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_down.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_selected.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_link.png",
@@ -44,16 +40,8 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_link.png"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite.png"
-    },
-    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_home.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_home.png"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_person.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_port.png",
@@ -72,24 +60,12 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_favorite_selected_small.png"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_up.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_arrow_up.png"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_sort.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_sort.png"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_tag.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_tag.png"
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected_small.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_selected_small.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_search.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_search.png"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected_small.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_selected_small.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_small.png",
@@ -104,24 +80,100 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_arrow_down.png"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_small.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_favorite_small.png"
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_home.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_home.png"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_up.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected_small.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_favorite_selected_small.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_home.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_tag.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_tag.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_tag.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_tag.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_selected.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_small.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_small.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_up.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_port.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_port.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_sort.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_tag.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_tag.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected_small.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_favorite_selected_small.png"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_small.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_favorite_small.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_sort.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_link.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_link.png"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_favorite.png"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_home.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_home.png"
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_person.png"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_person.png"
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_home.png",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/drawable-mdpi/ic_home.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_up.png",
@@ -130,10 +182,6 @@
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_favorite_selected.png"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_favorite_selected_small.png",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable-mdpi/ic_favorite_selected_small.png"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_sort.png",
@@ -154,5 +202,9 @@
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_sort.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_down.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/drawable-mdpi/ic_arrow_down.png"
     }
 ]

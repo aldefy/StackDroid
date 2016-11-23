@@ -34,6 +34,11 @@ class HomePresenter {
                 view.questionsLoaded(itemses);
             }
 
+            @Override
+            public void onDbSaveSuccess(QItems item) {
+
+            }
+
 
             @Override
             public void onError(Throwable error) {
@@ -44,6 +49,28 @@ class HomePresenter {
 
         compositeSubscription.add(qnSubscription);
     }
+
+
+    public void saveQnInDb(QItems qItem) {
+
+        homeApiService.saveItemToDb(qItem, new HomeApiService.QuestionsCallback() {
+            @Override
+            public void onQuestionSuccess(List<QItems> items) {
+            }
+
+            @Override
+            public void onDbSaveSuccess(QItems item) {
+                view.dbSaveSuccess();
+
+            }
+
+            @Override
+            public void onError(Throwable retrofitError) {
+
+            }
+        });
+    }
+
 
     void getTags() {
 
@@ -66,4 +93,6 @@ class HomePresenter {
     void onStop() {
         compositeSubscription.unsubscribe();
     }
+
+
 }

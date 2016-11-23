@@ -12,28 +12,12 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_selector_ripple_dark.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_selector_ripple.xml"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_shape.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple.xml",
@@ -44,16 +28,8 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_selector_ripple.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_shape.xml"
-    },
-    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
@@ -64,11 +40,59 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_edit_text_material.xml"
-    },
-    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]

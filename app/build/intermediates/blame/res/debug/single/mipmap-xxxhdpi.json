@@ -8,6 +8,10 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }

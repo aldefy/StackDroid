@@ -4,6 +4,14 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/menu/menu_drawer.xml"
     },
     {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/menu/menu_home.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/menu/menu_home.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Downloads/StackDroid MVP Full/app/build/intermediates/res/merged/debug/menu/menu_drawer.xml",
+        "source": "/Users/aditlal/Downloads/StackDroid MVP Full/app/src/main/res/menu/menu_drawer.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/menu/menu_drawer.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/src/main/res/menu/menu_drawer.xml"
     },
