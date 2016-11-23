@@ -31,7 +31,7 @@ public class MainApplication extends Application {
     private void init() {
         if (BuildConfig.DEBUG) {
             Timber.plant(new Timber.DebugTree());
-            Timber.tag("StackDroid");
+            Timber.tag("Stackdroid");
         }
         Picasso.Builder builder = new Picasso.Builder(this);
         Picasso built = builder.build();

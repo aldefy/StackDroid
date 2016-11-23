@@ -1,7 +1,19 @@
 [
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_selectall_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_selectall_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
@@ -12,16 +24,16 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected_dark.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_btn_checkbox_checked_mtrl.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_checkbox_checked_mtrl.xml"
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/bg_drawer_item.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/src/main/res/drawable/bg_drawer_item.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_btn_checkbox_checked_mtrl.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_checkbox_checked_mtrl.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
@@ -64,6 +76,14 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_selector.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_paste_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_paste_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector_dark.xml"
     },
@@ -92,8 +112,20 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
@@ -104,8 +136,16 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_copy_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/md_selector.xml",
@@ -120,6 +160,10 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_paste_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_selectall_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_selectall_material.xml"
     },
@@ -132,6 +176,10 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_cut_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_cut_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/md_selector.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector.xml"
     },
@@ -140,24 +188,36 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector.xml"
-    },
-    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/md_btn_selected.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/md_item_selected.xml",
@@ -166,6 +226,10 @@
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_checkbox_unchecked_mtrl.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
@@ -180,12 +244,16 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_selectall_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_clear_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
@@ -208,12 +276,20 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_on_mtrl.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
@@ -224,16 +300,40 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_checkbox_unchecked_mtrl.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/bg_drawer_item.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable/bg_drawer_item.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_off_mtrl.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_off_mtrl.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_share_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_share_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/bg_time.xml",
@@ -272,6 +372,10 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector_dark.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/bg_time.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/src/main/res/drawable/bg_time.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_off_mtrl.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_off_mtrl.xml"
     },
@@ -280,8 +384,28 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_item_selected_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_item_selected_dark.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_copy_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/md_btn_selector_dark.xml",
@@ -292,8 +416,24 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_on_mtrl.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
@@ -308,6 +448,14 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_btn_selected.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_item_selected.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_item_selected.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
     },
@@ -320,12 +468,20 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_check_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_paste_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_paste_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
@@ -340,8 +496,20 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_transparent.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_off_mtrl.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_checkbox_checked_mtrl.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
@@ -360,12 +528,28 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_share_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected_dark.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
@@ -382,6 +566,10 @@
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/md_item_selected_dark.xml",
@@ -404,8 +592,24 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
@@ -420,7 +624,15 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_check_material.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_on_mtrl.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_on_mtrl.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
     }
 ]

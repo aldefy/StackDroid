@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
     }
 ]

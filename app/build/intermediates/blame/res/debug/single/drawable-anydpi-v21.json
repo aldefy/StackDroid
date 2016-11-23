@@ -4,6 +4,10 @@
         "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-anydpi-v21/md_nav_back.xml"
     },
     {
+        "merged": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/Users/aditlal/Documents/GitProj/StackDroid MVP Full/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
         "merged": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
         "source": "/Users/aditlal/Documents/GitProj/StackDroid/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-anydpi-v21/md_nav_back.xml"
     }
